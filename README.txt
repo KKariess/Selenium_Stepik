@@ -1,0 +1,1 @@
+This repo is to store "Selenium Automation with Python" home tasks
